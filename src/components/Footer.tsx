@@ -14,7 +14,7 @@ const Footer = () => {
         <div className="text-center">
           <div className="flex justify-center items-center mb-6">
             <img
-              src="/public/moveup logo.png"
+              src="/moveup logo.png"
               alt="MoveUp Logo"
               className="h-20 w-auto"
             />
