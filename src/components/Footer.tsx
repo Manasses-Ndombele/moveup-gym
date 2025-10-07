@@ -34,7 +34,7 @@ const Footer = () => {
           </div>
 
           <div className="text-gray-400 text-sm">
-            <p>&copy; 2025 - <a href="https://manassesndombele.vercel.app/" className="underline">Manassés Ndombele</a>. Todos os direitos reservados.</p>
+            <p>&copy; 2025 - <a href="https://manassesndombele.com" className="underline">Manassés Ndombele</a>. Todos os direitos reservados.</p>
           </div>
         </div>
       </div>
